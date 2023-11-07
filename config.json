@@ -1,0 +1,63 @@
+{
+    "siteFavicon": "assets/img/box-open-solid.png",
+    "siteLogo": "assets/img/box-open-solid.png",
+    "siteName": "Cadastro de Mercadorias",
+    "siteSlogan": "Temos tudo o que deseja!",
+    "apiBaseURL": "http://localhost:3000/",
+    "siteYear": 2023,
+    "siteOwner": "Jonatas",
+    "siteMenu": [
+        {
+            "href": "home",
+            "label": "Início",
+            "icon": "fa-solid fa-house fa-fw"
+        },
+        {
+            "href": "new",
+            "label": "Novo",
+            "icon": "fa-solid fa-plus fa-fw"
+        },
+        {
+            "href": "contacts",
+            "label": "Contatos",
+            "icon": "fa-solid fa-comment-dots fa-fw"
+        },
+        {
+            "href": "about",
+            "label": "Sobre",
+            "icon": "fa-solid fa-info fa-fw"
+        }
+    ],
+    "socialList": [
+        {
+            "href": "https://wa.me/5521987654321",
+            "title": "Fale conosco pelo WhatsApp",
+            "icon": "fa-brands fa-whatsapp fa-fw"
+        },
+        {
+            "href": "tel:5521987654321",
+            "title": "Fale conosco pelo telefone",
+            "icon": "fa-solid fa-phone fa-fw"
+        },
+        {
+            "href": "mailto:none@none.com",
+            "title": "Fale conosco por e-mail",
+            "icon": "fa-solid fa-envelope fa-fw"
+        },
+        {
+            "href": "https://facebook.com/frontendeiros",
+            "title": "Siga-nos no Facebook",
+            "icon": "fa-brands fa-facebook fa-fw"
+        },
+        {
+            "href": "https://github.com/frontendeiros",
+            "title": "Siga-nos no GitHub",
+            "icon": "fa-brands fa-github fa-fw"
+        },
+        {
+            "href": "https://instagram.com/frontendeiros",
+            "title": "Siga-nos no Instagram",
+            "icon": "fa-brands fa-instagram fa-fw"
+        }
+    ]
+}

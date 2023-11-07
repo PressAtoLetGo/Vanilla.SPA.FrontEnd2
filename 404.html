@@ -1,0 +1,6 @@
+<script>
+    const parts = window.location.pathname.split('/');
+    path = parts[parts.length - 1];
+    sessionStorage.path = path;
+    window.location.href = './';
+</script>
